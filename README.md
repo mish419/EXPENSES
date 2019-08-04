@@ -1,1 +1,4 @@
 # EXPENSES
+Bills 
+Rent 
+Utilities 
